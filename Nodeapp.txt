@@ -6,3 +6,9 @@ Nodejs                     vs          Browser
 5.versions                                  fragmentation
 6.commonJS                                  es6 modules
 How do we get node to evaluate our code?
+
+Buit-in Modules
+OS
+PATH
+FS 
+HTTP
