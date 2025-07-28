@@ -1,0 +1,8 @@
+Nodejs                     vs          Browser
+1.no Dom                                   DOM
+2.No window                                window
+3.server side apps                         web apps
+4.Filesystem                                filesystem
+5.versions                                  fragmentation
+6.commonJS                                  es6 modules
+How do we get node to evaluate our code?
