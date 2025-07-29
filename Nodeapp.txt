@@ -21,6 +21,13 @@ pre-built code
 
 1.event loop-is what allows node.js to perform non-blocking I/O operations-
 
-Javascript is synchronous and single threaded-reads everything line by line
+Javascript is synchronous and single threaded-reads everything line by line by adding
+asynchronous callbacks they get offloaded and outputed once they are done. 
 
-if we want to offload to the browser
+
+Events
+-events-driven programming
+used heavily in Node.js
+on-listen for an event
+emit - emit an event
+
