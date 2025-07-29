@@ -1,0 +1,17 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "main": "1-introduct.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

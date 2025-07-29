@@ -13,3 +13,14 @@ PATH
 FS 
 HTTP module
 
+
+topics
+event loop,async patterns,events emitter and streams
+main concepts
+pre-built code
+
+1.event loop-is what allows node.js to perform non-blocking I/O operations-
+
+Javascript is synchronous and single threaded-reads everything line by line
+
+if we want to offload to the browser
