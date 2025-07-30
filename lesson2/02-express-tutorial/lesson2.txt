@@ -13,3 +13,7 @@ RES.JSON()
 SSR-TEMPLATE
 SEND TEMPLATE
 RES.RENDER()
+
+
+res.json([body]) - sends a JSON response (with the correct content-type) that
+is the parameter converted to a JSON string using JSON.stringify
