@@ -1,3 +1,15 @@
 response.end
 This method signals that all of the resposnse headers and body
 has been sent;that server should consider this message complete.The method response.end().MUST BE CALLED ON EACH RESPONSE
+
+
+Express.js
+API VS SSR
+API -setting up a http interface
+API-JSON
+SEND DATA
+RES.JSON()
+
+SSR-TEMPLATE
+SEND TEMPLATE
+RES.RENDER()
