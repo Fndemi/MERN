@@ -1,0 +1,3 @@
+response.end
+This method signals that all of the resposnse headers and body
+has been sent;that server should consider this message complete.The method response.end().MUST BE CALLED ON EACH RESPONSE
