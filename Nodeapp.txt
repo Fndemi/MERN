@@ -31,3 +31,10 @@ used heavily in Node.js
 on-listen for an event
 emit - emit an event
 
+
+Streams
+Writable
+Readable
+Duplex
+Transform
+
